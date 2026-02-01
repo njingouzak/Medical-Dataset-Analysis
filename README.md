@@ -9,7 +9,8 @@ The mission of this project is to analyze and derive actionable insights from he
 
 - Exploratory analysis from medical datasets
 - Identifying trends in hospitalization charges and patient health profiles
-- Analyzing the impact of variables such as BMI and smoking on healthcare costs
+- Analyzing relationship  between BMI, smoking and healthcare costs
+- determining the peak year of healthcare demand
 
 ---
 ## **Tools**
