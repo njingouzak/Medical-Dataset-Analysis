@@ -7,9 +7,9 @@ The mission of this project is to analyze and derive actionable insights from he
 ---
 ## **Project Objectives**
 
-Exploratory analysis from medical datasets
-Identifying trends in hospitalization charges and patient health profiles
-Analyzing the impact of variables such as BMI and smoking on healthcare costs
+- Exploratory analysis from medical datasets
+- Identifying trends in hospitalization charges and patient health profiles
+- Analyzing the impact of variables such as BMI and smoking on healthcare costs
 
 
 
