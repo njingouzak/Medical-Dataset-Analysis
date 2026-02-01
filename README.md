@@ -10,7 +10,7 @@ The mission of this project is to analyze and derive actionable insights from he
 - Exploratory analysis from medical datasets
 - Identifying trends in hospitalization charges and patient health profiles
 - Analyzing relationship  between BMI, smoking and healthcare costs
-- determining the peak year of healthcare demand
+- determining peak of healthcare demand
 
 ---
 ## **Tools**
@@ -49,6 +49,7 @@ The mission of this project is to analyze and derive actionable insights from he
 - Medical conditions and surgeries were  associated High hospital charges
 - Hospital charges have shown certain variation depending on hospital tier and city tier
 - BMI and smoking are related to the increased of healthcare costs
+- The highest number of hospitalization is **100**
 
 
 
