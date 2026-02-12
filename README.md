@@ -51,8 +51,10 @@ The mission of this project is to analyze and derive actionable insights from he
 - BMI and smoking are related to the increased of healthcare costs
 - The highest number of hospitalization is **100**
 
+----
+## **Impact**
 
-
+This project demonstrates how accessible data engineering and SQL analytics can drive tangible improvements in healthcare efficiency without requiring AI/ML complexity. The insights directly support cost containment initiatives, risk-adjusted resource planning, and personalized patient management strategies.
 
 
 
