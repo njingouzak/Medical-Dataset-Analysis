@@ -46,9 +46,9 @@ The mission of this project is to analyze and derive actionable insights from he
 ## **Key Outcomes**
 
 - Average hospital charges for all records was **$13,564.6**
-- Medical conditions and surgeries were  associated High hospital charges
-- Hospital charges have shown certain variation depending on hospital tier and city tier
-- BMI and smoking are related to the increased of healthcare costs
+- Medical conditions and surgeries were associated higher hospital charges
+- Hospital charges varied depending on hospital tier and city tier
+- BMI and smoking are linked to increased healthcare costs
 - The highest number of hospitalization is **100**
 
 ----
